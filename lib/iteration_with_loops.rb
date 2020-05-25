@@ -13,10 +13,14 @@ def find_even_values(src)
       element_index +=1 #increment through inner loop
     end
     row_index+=1 #increment through outer loop
-end
+  end
 end
 
 #[10,11]
 #[99, 50, 3, 4]
 #[23, 41]
-#=> 10, 50, 4
+
+#=> 
+#10
+#50 
+#4
